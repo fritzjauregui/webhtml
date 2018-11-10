@@ -31,8 +31,8 @@
 						<h2>ni tampoco tener mucho dinero,
 						<h2>aca en Peru, la comida y hospedaje es barato si sabes buscar.
 						
-						</h2> </center></td>
-						</td>
+						</h2>
+					
 						<td wigth= "280"> <center><img src="https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/45804827_10216874267306464_2655834181858230272_n.jpg?_nc_cat=104&_nc_ht=scontent-scl1-1.xx&oh=6e0b1cdeb78f5775edfd0cf50d8695bf&oe=5C869C9D" width= "250" height= "250" >
 							<img src="https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/45803832_10216874267786476_3125733320919351296_n.jpg?_nc_cat=105&_nc_ht=scontent-scl1-1.xx&oh=22d01ca2c99a65388aba1bb70ed5c70a&oe=5C803F24" width= "250" height= "250" >
 					
