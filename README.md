@@ -10,7 +10,7 @@
 						<td wigth= "280"> <center> <img src="https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/45838393_10216874268346490_6283432709033295872_n.jpg?_nc_cat=110&_nc_ht=scontent-scl1-1.xx&oh=6786606fac10012e5b4cb192f3a458ab&oe=5C85E5D8" width= "250" height= "250" >
 						<td> <center> <h2> Mi nombre es:Fritz Jauregui Puemape
 						<h2>Titulado de la TECSUP(C3)
-						<h2>Estudio: 
+						<h2>Estudio: Ingenieria Industrial
 						<h2>Me gusta: Viajar y aprender cosas nuevas
 						<h2>Vivo en: Chaclacayo pero prefiero Chosica
 						
@@ -46,9 +46,3 @@
 														
 															</h2>
 					
-
-
-
-
-
-	
