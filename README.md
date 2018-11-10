@@ -40,16 +40,6 @@
 						<td colspan= "2" align="justify"> <font color="#FF336B"><h2> Amigos de la UTEC <p>
 															<a href="http://www.google.com"> Click aqui</a>
 															</p></h2>
-						</td>
-					</tr>
-					
 					
 	
-					
-				</table>
-		</body>
-
-
-
-
-</html>
+	
