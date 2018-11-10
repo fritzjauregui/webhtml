@@ -14,9 +14,9 @@
 						<h2>Me gusta: Viajar y aprender cosas nuevas
 						<h2>Vivo en: Chaclacayo pero prefiero Chosica
 						
-						</h2> </center></td>
+						</h2>
 						
-					</tr>
+				
 					<tr>
 						<td colspan= "2" align="justify"> <font color="#33FFE6"><h2> Naci en Lima, Estudie Mantenimiento de Maquinarias de Planta en la TECSUP, 
 															Hice practicas profesionales en la Universidad de Lima y luego trabaje en A.W. faber Castell,
