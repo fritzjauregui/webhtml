@@ -38,7 +38,12 @@
 					
 					<tr>
 						<td colspan= "2" align="justify"> <font color="#FF336B"><h2> Amigos de la UTEC <p>
-															<a href="http://www.google.com"> Click aqui</a>
+															<a href="http://sebastiangdo.byethost15.com/"> Sebastian Delgado Olivera</a>
+															<a href="https://app-1541810296.000webhostapp.com"> Luis Alvarez Ccopa </a>
+															<a href="https://valeria-frisancho-collao.000webhostapp.com/pagina1.html"> Valeria Frisancho Collao</a>
+															<a href="https://st-19.github.io/santiago/"> Santiago Teran</a>
+															<a href="http://nickolasoriano8399.000webhostapp.com/"> Nickola Soriano</a>
+															</p></h2>
 															</p></h2>
 					
 
