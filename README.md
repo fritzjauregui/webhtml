@@ -7,7 +7,7 @@
 			<h1 align= "center"><font color= "FF5533"> Bienvenido a mi Pagina</font> </h1>
 				<table width= "800" height= "650" align="left" border= "4">
 					<tr>
-						<td wigth= "280"> <center> <img src="8.jpg" width= "250" height= "250" >
+						<td wigth= "280"> <center> <img src="https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/45838393_10216874268346490_6283432709033295872_n.jpg?_nc_cat=110&_nc_ht=scontent-scl1-1.xx&oh=6786606fac10012e5b4cb192f3a458ab&oe=5C85E5D8" width= "250" height= "250" >
 						<td> <center> <h2> Mi nombre es:Fritz Jauregui Puemape
 						<h2>Titulado de la TECSUP(C3)
 						<h2>Estudio: 
@@ -33,8 +33,8 @@
 						
 						</h2> </center></td>
 						</td>
-						<td wigth= "280"> <center><img src="6.jpg" width= "250" height= "250" >
-							<img src="7.jpg" width= "250" height= "250" >
+						<td wigth= "280"> <center><img src="https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/45804827_10216874267306464_2655834181858230272_n.jpg?_nc_cat=104&_nc_ht=scontent-scl1-1.xx&oh=6e0b1cdeb78f5775edfd0cf50d8695bf&oe=5C869C9D" width= "250" height= "250" >
+							<img src="https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/45803832_10216874267786476_3125733320919351296_n.jpg?_nc_cat=105&_nc_ht=scontent-scl1-1.xx&oh=22d01ca2c99a65388aba1bb70ed5c70a&oe=5C803F24" width= "250" height= "250" >
 					
 					<tr>
 						<td colspan= "2" align="justify"> <font color="#FF336B"><h2> Amigos de la UTEC <p>
