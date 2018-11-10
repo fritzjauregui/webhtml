@@ -43,7 +43,7 @@
 				<h2><a href="https://valeria-frisancho-collao.000webhostapp.com/pagina1.html"> Valeria Frisancho Collao</a>
 				<h2><a href="https://st-19.github.io/santiago/"> Santiago Teran</a>
 				<h2><a href="http://nickolasoriano8399.000webhostapp.com/"> Nickola Soriano</a>
-															</p></h2>
+														
 															</p></h2>
 					
 
